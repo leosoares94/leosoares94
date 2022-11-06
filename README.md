@@ -5,6 +5,6 @@
 - 🌱 Currently learning Dart & Flutter
 - ⚡ Fun fact: I'm a motion graphics designer and musician!
 
-[LinkedIn](https://www.linkedin.com/in/leosoares94/)
-[Instagram](https://instagram.com/leosoares94)
+- [LinkedIn](https://www.linkedin.com/in/leosoares94/) /n
+- [Instagram](https://instagram.com/leosoares94)
 
