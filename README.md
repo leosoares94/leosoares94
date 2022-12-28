@@ -1,7 +1,7 @@
 ### Hi, i'm Léo!
 
 - 💻 ReactTS and NodeTS Developer
-- ⌛ 7 years of experience
+- ⌛ 8 years of Javascript experience
 - 🌱 Currently learning Dart & Flutter
 - ⚡ Fun fact: I'm a motion graphics designer and musician!
 
