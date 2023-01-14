@@ -1,6 +1,6 @@
 ### Hi, i'm Léo!
 
-- 💻 Javascript Specialist 
+- 💻 Javascript software engineer
 - ⌛ 9 years of experience
 - 🌱 Currently learning Dart & Flutter
 - ⚡ Fun fact: I'm a motion graphics designer and musician!
