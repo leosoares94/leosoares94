@@ -1,7 +1,7 @@
 ### Hi, i'm Léo!
 
 - 💻 Javascript software engineer
-- ⌛ 9 years of experience
+- ⌛ 12 years of experience
 - 🌱 Currently studying Machine Learning with TensorFlow
 - ⚡ Fun fact: I'm a motion graphics designer and musician!
 
